@@ -22,7 +22,7 @@ Super-fast account activation. Top-notch customer support. Support for all curre
 ## Notes
 ### VirtueMart "Safe Path"
 VirtueMart uses a folder for storing invoices and downloadable files you eventually offer for sale. You must configure the path to this folder referred to as "Safe Path". For security reasons, it is recommended that this folder is outside of the public website folders.
-[Read more about how to setup the safe path](setuphttp://docs.virtuemart.net/faqs/110-how-to-set-the-safe-path.html).
+[Read more about how to setup the safe path](http://docs.virtuemart.net/faqs/110-how-to-set-the-safe-path.html).
 
 ## Missing some feature?
 Please send us an email to support@simplepay.ng
